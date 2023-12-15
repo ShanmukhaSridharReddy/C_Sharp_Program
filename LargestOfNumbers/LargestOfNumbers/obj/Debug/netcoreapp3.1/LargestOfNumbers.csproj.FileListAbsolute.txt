@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.exe
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.deps.json
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.runtimeconfig.json
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.dll
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\bin\Debug\netcoreapp3.1\LargestOfNumbers.pdb
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.dll
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.pdb
+C:\Users\Person 1\source\repos\LargestOfNumbers\LargestOfNumbers\obj\Debug\netcoreapp3.1\LargestOfNumbers.genruntimeconfig.cache

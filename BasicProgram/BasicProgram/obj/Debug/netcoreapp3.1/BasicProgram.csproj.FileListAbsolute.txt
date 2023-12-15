@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.exe
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.deps.json
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.runtimeconfig.json
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.dll
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\bin\Debug\netcoreapp3.1\BasicProgram.pdb
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.dll
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.pdb
+C:\Users\Person 1\source\repos\BasicProgram\BasicProgram\obj\Debug\netcoreapp3.1\BasicProgram.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\bin\Debug\netcoreapp3.1\CollectionsHashTable.exe
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\bin\Debug\netcoreapp3.1\CollectionsHashTable.deps.json
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\bin\Debug\netcoreapp3.1\CollectionsHashTable.runtimeconfig.json
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\bin\Debug\netcoreapp3.1\CollectionsHashTable.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\bin\Debug\netcoreapp3.1\CollectionsHashTable.dll
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\bin\Debug\netcoreapp3.1\CollectionsHashTable.pdb
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.dll
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.pdb
+C:\Users\Person 1\source\repos\CollectionsHashTable\CollectionsHashTable\obj\Debug\netcoreapp3.1\CollectionsHashTable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.exe
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.deps.json
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.runtimeconfig.json
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.dll
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\bin\Debug\netcoreapp3.1\FileOperations.pdb
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.dll
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.pdb
+C:\Users\Person 1\source\repos\FileOperations\FileOperations\obj\Debug\netcoreapp3.1\FileOperations.genruntimeconfig.cache

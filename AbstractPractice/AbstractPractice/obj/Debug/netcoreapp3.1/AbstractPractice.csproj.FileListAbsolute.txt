@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.exe
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.deps.json
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.runtimeconfig.json
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.dll
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.pdb
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.dll
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.pdb
+C:\Users\Person 1\source\repos\AbstractPractice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.genruntimeconfig.cache

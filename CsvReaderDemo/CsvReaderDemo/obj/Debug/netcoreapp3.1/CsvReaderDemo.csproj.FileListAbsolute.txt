@@ -1,0 +1,17 @@
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvReaderDemo.exe
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvReaderDemo.deps.json
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvReaderDemo.runtimeconfig.json
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvReaderDemo.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvReaderDemo.dll
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvReaderDemo.pdb
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.csproj.AssemblyReference.cache
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.csproj.CopyComplete
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.dll
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.pdb
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\obj\Debug\netcoreapp3.1\CsvReaderDemo.genruntimeconfig.cache
+C:\Users\Person 1\source\repos\CsvReaderDemo\CsvReaderDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\bin\Debug\netcoreapp3.1\C#BasicPrograms.exe
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\bin\Debug\netcoreapp3.1\C#BasicPrograms.deps.json
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\bin\Debug\netcoreapp3.1\C#BasicPrograms.runtimeconfig.json
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\bin\Debug\netcoreapp3.1\C#BasicPrograms.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\bin\Debug\netcoreapp3.1\C#BasicPrograms.dll
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\bin\Debug\netcoreapp3.1\C#BasicPrograms.pdb
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.dll
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.pdb
+C:\Users\Person 1\source\repos\C#BasicPrograms\C#BasicPrograms\obj\Debug\netcoreapp3.1\C#BasicPrograms.genruntimeconfig.cache

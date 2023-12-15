@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\bin\Debug\netcoreapp3.1\JavaPrograms2.exe
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\bin\Debug\netcoreapp3.1\JavaPrograms2.deps.json
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\bin\Debug\netcoreapp3.1\JavaPrograms2.runtimeconfig.json
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\bin\Debug\netcoreapp3.1\JavaPrograms2.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\bin\Debug\netcoreapp3.1\JavaPrograms2.dll
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\bin\Debug\netcoreapp3.1\JavaPrograms2.pdb
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.dll
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.pdb
+C:\Users\Person 1\source\repos\JavaPrograms2\JavaPrograms2\obj\Debug\netcoreapp3.1\JavaPrograms2.genruntimeconfig.cache

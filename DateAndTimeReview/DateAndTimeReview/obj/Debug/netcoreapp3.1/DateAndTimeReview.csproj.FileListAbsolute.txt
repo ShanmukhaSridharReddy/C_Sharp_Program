@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\bin\Debug\netcoreapp3.1\DateAndTimeReview.exe
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\bin\Debug\netcoreapp3.1\DateAndTimeReview.deps.json
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\bin\Debug\netcoreapp3.1\DateAndTimeReview.runtimeconfig.json
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\bin\Debug\netcoreapp3.1\DateAndTimeReview.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\bin\Debug\netcoreapp3.1\DateAndTimeReview.dll
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\bin\Debug\netcoreapp3.1\DateAndTimeReview.pdb
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.dll
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.pdb
+C:\Users\Person 1\source\repos\DateAndTimeReview\DateAndTimeReview\obj\Debug\netcoreapp3.1\DateAndTimeReview.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\bin\Debug\netcoreapp3.1\FirstAndLastWord.exe
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\bin\Debug\netcoreapp3.1\FirstAndLastWord.deps.json
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\bin\Debug\netcoreapp3.1\FirstAndLastWord.runtimeconfig.json
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\bin\Debug\netcoreapp3.1\FirstAndLastWord.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\bin\Debug\netcoreapp3.1\FirstAndLastWord.dll
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\bin\Debug\netcoreapp3.1\FirstAndLastWord.pdb
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.dll
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.pdb
+C:\Users\Person 1\source\repos\FirstAndLastWord\FirstAndLastWord\obj\Debug\netcoreapp3.1\FirstAndLastWord.genruntimeconfig.cache

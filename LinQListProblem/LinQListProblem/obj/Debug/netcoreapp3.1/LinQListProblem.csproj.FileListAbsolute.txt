@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\bin\Debug\netcoreapp3.1\LinQListProblem.exe
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\bin\Debug\netcoreapp3.1\LinQListProblem.deps.json
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\bin\Debug\netcoreapp3.1\LinQListProblem.runtimeconfig.json
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\bin\Debug\netcoreapp3.1\LinQListProblem.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\bin\Debug\netcoreapp3.1\LinQListProblem.dll
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\bin\Debug\netcoreapp3.1\LinQListProblem.pdb
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.dll
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.pdb
+C:\Users\Person 1\source\repos\LinQListProblem\LinQListProblem\obj\Debug\netcoreapp3.1\LinQListProblem.genruntimeconfig.cache

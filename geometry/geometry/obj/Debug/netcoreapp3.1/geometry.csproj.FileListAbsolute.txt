@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\geometry\geometry\bin\Debug\netcoreapp3.1\geometry.exe
+C:\Users\Person 1\source\repos\geometry\geometry\bin\Debug\netcoreapp3.1\geometry.deps.json
+C:\Users\Person 1\source\repos\geometry\geometry\bin\Debug\netcoreapp3.1\geometry.runtimeconfig.json
+C:\Users\Person 1\source\repos\geometry\geometry\bin\Debug\netcoreapp3.1\geometry.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\geometry\geometry\bin\Debug\netcoreapp3.1\geometry.dll
+C:\Users\Person 1\source\repos\geometry\geometry\bin\Debug\netcoreapp3.1\geometry.pdb
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.dll
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.pdb
+C:\Users\Person 1\source\repos\geometry\geometry\obj\Debug\netcoreapp3.1\geometry.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\bin\Debug\netcoreapp3.1\TodayReview.exe
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\bin\Debug\netcoreapp3.1\TodayReview.deps.json
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\bin\Debug\netcoreapp3.1\TodayReview.runtimeconfig.json
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\bin\Debug\netcoreapp3.1\TodayReview.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\bin\Debug\netcoreapp3.1\TodayReview.dll
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\bin\Debug\netcoreapp3.1\TodayReview.pdb
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.dll
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.pdb
+C:\Users\Person 1\source\repos\TodayReview\TodayReview\obj\Debug\netcoreapp3.1\TodayReview.genruntimeconfig.cache

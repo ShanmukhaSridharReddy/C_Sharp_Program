@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\netcoreapp3.1\CurrentDateAndTime.exe
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\netcoreapp3.1\CurrentDateAndTime.deps.json
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\netcoreapp3.1\CurrentDateAndTime.runtimeconfig.json
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\netcoreapp3.1\CurrentDateAndTime.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\netcoreapp3.1\CurrentDateAndTime.dll
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\bin\Debug\netcoreapp3.1\CurrentDateAndTime.pdb
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.dll
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.pdb
+C:\Users\Person 1\source\repos\CurrentDateAndTime\CurrentDateAndTime\obj\Debug\netcoreapp3.1\CurrentDateAndTime.genruntimeconfig.cache

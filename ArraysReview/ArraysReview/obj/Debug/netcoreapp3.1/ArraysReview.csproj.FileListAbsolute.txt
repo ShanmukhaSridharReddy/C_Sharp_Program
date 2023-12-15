@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\bin\Debug\netcoreapp3.1\ArraysReview.exe
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\bin\Debug\netcoreapp3.1\ArraysReview.deps.json
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\bin\Debug\netcoreapp3.1\ArraysReview.runtimeconfig.json
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\bin\Debug\netcoreapp3.1\ArraysReview.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\bin\Debug\netcoreapp3.1\ArraysReview.dll
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\bin\Debug\netcoreapp3.1\ArraysReview.pdb
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.dll
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.pdb
+C:\Users\Person 1\source\repos\ArraysReview\ArraysReview\obj\Debug\netcoreapp3.1\ArraysReview.genruntimeconfig.cache

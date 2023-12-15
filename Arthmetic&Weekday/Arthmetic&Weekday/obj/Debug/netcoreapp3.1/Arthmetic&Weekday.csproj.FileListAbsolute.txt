@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\bin\Debug\netcoreapp3.1\Arthmetic&Weekday.exe
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\bin\Debug\netcoreapp3.1\Arthmetic&Weekday.deps.json
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\bin\Debug\netcoreapp3.1\Arthmetic&Weekday.runtimeconfig.json
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\bin\Debug\netcoreapp3.1\Arthmetic&Weekday.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\bin\Debug\netcoreapp3.1\Arthmetic&Weekday.dll
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\bin\Debug\netcoreapp3.1\Arthmetic&Weekday.pdb
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.dll
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.pdb
+C:\Users\Person 1\source\repos\Arthmetic&Weekday\Arthmetic&Weekday\obj\Debug\netcoreapp3.1\Arthmetic&Weekday.genruntimeconfig.cache

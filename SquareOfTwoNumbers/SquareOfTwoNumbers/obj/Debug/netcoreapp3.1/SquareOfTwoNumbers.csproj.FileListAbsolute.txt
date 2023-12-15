@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\bin\Debug\netcoreapp3.1\SquareOfTwoNumbers.exe
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\bin\Debug\netcoreapp3.1\SquareOfTwoNumbers.deps.json
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\bin\Debug\netcoreapp3.1\SquareOfTwoNumbers.runtimeconfig.json
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\bin\Debug\netcoreapp3.1\SquareOfTwoNumbers.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\bin\Debug\netcoreapp3.1\SquareOfTwoNumbers.dll
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\bin\Debug\netcoreapp3.1\SquareOfTwoNumbers.pdb
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.dll
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.pdb
+C:\Users\Person 1\source\repos\SquareOfTwoNumbers\SquareOfTwoNumbers\obj\Debug\netcoreapp3.1\SquareOfTwoNumbers.genruntimeconfig.cache

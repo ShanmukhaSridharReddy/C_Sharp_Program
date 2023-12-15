@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\bin\Debug\netcoreapp3.1\DateTimeConcepts.exe
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\bin\Debug\netcoreapp3.1\DateTimeConcepts.deps.json
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\bin\Debug\netcoreapp3.1\DateTimeConcepts.runtimeconfig.json
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\bin\Debug\netcoreapp3.1\DateTimeConcepts.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\bin\Debug\netcoreapp3.1\DateTimeConcepts.dll
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\bin\Debug\netcoreapp3.1\DateTimeConcepts.pdb
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.dll
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.pdb
+C:\Users\Person 1\source\repos\DateTimeConcepts\DateTimeConcepts\obj\Debug\netcoreapp3.1\DateTimeConcepts.genruntimeconfig.cache

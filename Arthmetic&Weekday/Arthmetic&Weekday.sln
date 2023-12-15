@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arthmetic&Weekday", "Arthmetic&Weekday\Arthmetic&Weekday.csproj", "{99E46F9B-2137-4E90-81D9-F5A1FF242331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E46F9B-2137-4E90-81D9-F5A1FF242331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E46F9B-2137-4E90-81D9-F5A1FF242331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E46F9B-2137-4E90-81D9-F5A1FF242331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E46F9B-2137-4E90-81D9-F5A1FF242331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16D568B4-23C1-4429-A121-E952BE9FCF25}
+	EndGlobalSection
+EndGlobal

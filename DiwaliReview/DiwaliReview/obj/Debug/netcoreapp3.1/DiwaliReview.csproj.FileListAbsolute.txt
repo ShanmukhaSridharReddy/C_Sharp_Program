@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\bin\Debug\netcoreapp3.1\DiwaliReview.exe
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\bin\Debug\netcoreapp3.1\DiwaliReview.deps.json
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\bin\Debug\netcoreapp3.1\DiwaliReview.runtimeconfig.json
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\bin\Debug\netcoreapp3.1\DiwaliReview.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\bin\Debug\netcoreapp3.1\DiwaliReview.dll
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\bin\Debug\netcoreapp3.1\DiwaliReview.pdb
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.dll
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.pdb
+C:\Users\Person 1\source\repos\DiwaliReview\DiwaliReview\obj\Debug\netcoreapp3.1\DiwaliReview.genruntimeconfig.cache

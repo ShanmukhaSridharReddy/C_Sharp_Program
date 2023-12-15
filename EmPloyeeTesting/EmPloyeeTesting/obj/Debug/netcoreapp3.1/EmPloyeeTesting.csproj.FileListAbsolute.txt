@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\bin\Debug\netcoreapp3.1\EmPloyeeTesting.exe
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\bin\Debug\netcoreapp3.1\EmPloyeeTesting.deps.json
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\bin\Debug\netcoreapp3.1\EmPloyeeTesting.runtimeconfig.json
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\bin\Debug\netcoreapp3.1\EmPloyeeTesting.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\bin\Debug\netcoreapp3.1\EmPloyeeTesting.dll
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\bin\Debug\netcoreapp3.1\EmPloyeeTesting.pdb
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.dll
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.pdb
+C:\Users\Person 1\source\repos\EmPloyeeTesting\EmPloyeeTesting\obj\Debug\netcoreapp3.1\EmPloyeeTesting.genruntimeconfig.cache

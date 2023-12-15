@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.exe
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.deps.json
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.runtimeconfig.json
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.dll
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.1\RegularExpression.pdb
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.dll
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.pdb
+C:\Users\Person 1\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.1\RegularExpression.genruntimeconfig.cache

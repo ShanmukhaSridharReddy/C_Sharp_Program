@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\bin\Debug\netcoreapp3.1\StringConcepts.exe
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\bin\Debug\netcoreapp3.1\StringConcepts.deps.json
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\bin\Debug\netcoreapp3.1\StringConcepts.runtimeconfig.json
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\bin\Debug\netcoreapp3.1\StringConcepts.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\bin\Debug\netcoreapp3.1\StringConcepts.dll
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\bin\Debug\netcoreapp3.1\StringConcepts.pdb
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.dll
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.pdb
+C:\Users\Person 1\source\repos\StringConcepts\StringConcepts\obj\Debug\netcoreapp3.1\StringConcepts.genruntimeconfig.cache

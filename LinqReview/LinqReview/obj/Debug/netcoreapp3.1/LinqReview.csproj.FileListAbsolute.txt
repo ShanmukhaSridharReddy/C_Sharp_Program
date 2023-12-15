@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\bin\Debug\netcoreapp3.1\LinqReview.exe
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\bin\Debug\netcoreapp3.1\LinqReview.deps.json
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\bin\Debug\netcoreapp3.1\LinqReview.runtimeconfig.json
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\bin\Debug\netcoreapp3.1\LinqReview.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\bin\Debug\netcoreapp3.1\LinqReview.dll
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\bin\Debug\netcoreapp3.1\LinqReview.pdb
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.dll
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.pdb
+C:\Users\Person 1\source\repos\LinqReview\LinqReview\obj\Debug\netcoreapp3.1\LinqReview.genruntimeconfig.cache

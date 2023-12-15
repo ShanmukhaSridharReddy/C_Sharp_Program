@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\Problems\Problems\bin\Debug\netcoreapp3.1\Problems.exe
+C:\Users\Person 1\source\repos\Problems\Problems\bin\Debug\netcoreapp3.1\Problems.deps.json
+C:\Users\Person 1\source\repos\Problems\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.json
+C:\Users\Person 1\source\repos\Problems\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\Problems\Problems\bin\Debug\netcoreapp3.1\Problems.dll
+C:\Users\Person 1\source\repos\Problems\Problems\bin\Debug\netcoreapp3.1\Problems.pdb
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.dll
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.pdb
+C:\Users\Person 1\source\repos\Problems\Problems\obj\Debug\netcoreapp3.1\Problems.genruntimeconfig.cache

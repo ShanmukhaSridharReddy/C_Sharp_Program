@@ -1,0 +1,13 @@
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\bin\Debug\netcoreapp3.1\FlipCoins.exe
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\bin\Debug\netcoreapp3.1\FlipCoins.deps.json
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\bin\Debug\netcoreapp3.1\FlipCoins.runtimeconfig.json
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\bin\Debug\netcoreapp3.1\FlipCoins.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\bin\Debug\netcoreapp3.1\FlipCoins.dll
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\bin\Debug\netcoreapp3.1\FlipCoins.pdb
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.dll
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.pdb
+C:\Users\Person 1\source\repos\FlipCoins\FlipCoins\obj\Debug\netcoreapp3.1\FlipCoins.genruntimeconfig.cache
