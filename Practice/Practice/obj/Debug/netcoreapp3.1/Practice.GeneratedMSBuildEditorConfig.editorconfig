@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 is_global = true
 build_property.RootNamespace = Practice
 build_property.ProjectDir = C:\Users\Person 1\source\repos\Practice\Practice\
+=======
+is_global = true
+build_property.RootNamespace = Practice
+build_property.ProjectDir = C:\Users\Person 1\source\repos\Practice\Practice\
+>>>>>>> 04deadebb31232fe066a62176929eaa106a76b6b
