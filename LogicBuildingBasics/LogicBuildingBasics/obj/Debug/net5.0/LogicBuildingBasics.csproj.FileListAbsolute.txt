@@ -1,0 +1,15 @@
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\bin\Debug\net5.0\LogicBuildingBasics.exe
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\bin\Debug\net5.0\LogicBuildingBasics.deps.json
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\bin\Debug\net5.0\LogicBuildingBasics.runtimeconfig.json
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\bin\Debug\net5.0\LogicBuildingBasics.runtimeconfig.dev.json
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\bin\Debug\net5.0\LogicBuildingBasics.dll
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\bin\Debug\net5.0\LogicBuildingBasics.pdb
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.AssemblyInfoInputs.cache
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.AssemblyInfo.cs
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.csproj.CoreCompileInputs.cache
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.dll
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\refint\LogicBuildingBasics.dll
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.pdb
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\LogicBuildingBasics.genruntimeconfig.cache
+C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\obj\Debug\net5.0\ref\LogicBuildingBasics.dll

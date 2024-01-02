@@ -4,6 +4,7 @@ using ModelLayer.Model;
 using RepositoryLayer.Entity;
 using RepositoryLayer.InterFace;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
@@ -38,6 +39,21 @@ namespace BusinessLayer.Sessions
         public bool ResetPassword(string email, ResetPasswordModel resetPasswordModel)
         {
             return userRepo.ResetPassword(email, resetPasswordModel);
+        }
+
+        public IEnumerable<UsersEntity> GetAllUsers()
+        {
+            return userRepo.GetAllUsers();
+        }
+
+        public UsersEntity SessionLogin(string email, string password)
+        {
+            return userRepo.SessionLogin(email, password);
+        }
+
+        public ArrayList GetAllDetails(int userid)
+        {
+            return userRepo.GetAllDetails(userid);
         }
     }
 

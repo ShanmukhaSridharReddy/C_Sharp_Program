@@ -1,6 +1,8 @@
 ﻿using ModelLayer.Model;
 using RepositoryLayer.Entity;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace BusinessLayer.InterFace
 {
@@ -12,5 +14,8 @@ namespace BusinessLayer.InterFace
 
         ForgotPassword ForgotPassword(string email);
         bool ResetPassword(string email, ResetPasswordModel resetPasswordModel);
+        IEnumerable<UsersEntity> GetAllUsers();
+        UsersEntity SessionLogin(string email, string password);
+        ArrayList GetAllDetails(int userid);
     }
 }

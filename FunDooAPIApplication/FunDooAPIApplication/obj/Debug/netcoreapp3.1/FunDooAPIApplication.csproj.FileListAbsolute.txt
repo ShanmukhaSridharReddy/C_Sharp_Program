@@ -72,3 +72,8 @@ C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Deb
 C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\obj\Debug\netcoreapp3.1\FunDooAPIApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Person 1\source\repos\FunDooAPIApplication\FunDooAPIApplication\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll

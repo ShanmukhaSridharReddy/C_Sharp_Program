@@ -9,6 +9,9 @@ using System.Text;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Reflection.Metadata.Ecma335;
 
 namespace RepositoryLayer.Sessions
 {
@@ -16,10 +19,12 @@ namespace RepositoryLayer.Sessions
     {
         private readonly FunDooContext funDooContext;
         private readonly IConfiguration _config;
+       
         public UserRepo(FunDooContext funDooContext, IConfiguration _config)
         {
             this.funDooContext = funDooContext;
             this._config = _config;
+            
         }
 
         public UsersEntity Register(RegisterModel Register)
@@ -97,13 +102,63 @@ namespace RepositoryLayer.Sessions
 
         public ForgotPassword ForgotPassword(string email)
         {
-            var result = funDooContext.Users.ToList().Find(x => x.Email == email);
-            ForgotPassword forgotPassword = new ForgotPassword();
-            forgotPassword.Email = result.Email;
-            forgotPassword.Token = GenerateToken(result.Id,result.Email);
-            forgotPassword.Id = result.Id;
-            return forgotPassword;
+            try
+            {
+                var result = funDooContext.Users.ToList().Find(x => x.Email == email);
+                ForgotPassword forgotPassword = new ForgotPassword();
+                forgotPassword.Email = result.Email;
+                forgotPassword.Token = GenerateToken(result.Id, result.Email);
+                forgotPassword.Id = result.Id;
+                return forgotPassword;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
+        public bool ResetPassword(string email,ResetPasswordModel resetPasswordModel)
+        {
+            if( email != null )
+            {
+                var check = funDooContext.Users.FirstOrDefault(x => x.Email == email);
+                check.Password = EncodePassword(resetPasswordModel.NewPassword);
+                funDooContext.SaveChanges();
+                return true;
+            }
+            return false;
+        }
+        public IEnumerable<UsersEntity> GetAllUsers() 
+        {
+            if(funDooContext.Users == null)
+            {
+                return null;
+            }
+            return funDooContext.Users.ToList();   
+                            
+        }
+
+        public UsersEntity SessionLogin(string email, string password)
+        {
+            UsersEntity user = funDooContext.Users.Where(a => a.Email == email).FirstOrDefault();
+            if (user != null)
+            {
+                if (user.Email == email && user.Password == EncodePassword(password))
+                {
+                    return user;
+                }
+            }
+            return null;
+        }
+        public UsersEntity Find( string name)
+        {
+            UsersEntity user = funDooContext.Users.FirstOrDefault(x=>x.FirstName==name);
+            if ( user !=null)
+            {
+                return user;
+            }
+            return null;
+        }
+        
 
     }
 }

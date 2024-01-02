@@ -6,11 +6,14 @@ using RepositoryLayer.Context;
 using RepositoryLayer.Entity;
 using RepositoryLayer.InterFace;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Security.Claims;
 using System.Text;
+using System.Threading;
 
 namespace RepositoryLayer.Sessiions
 {
@@ -124,7 +127,55 @@ namespace RepositoryLayer.Sessiions
             return false;
         }
 
+        public IEnumerable<UsersEntity> GetAllUsers()
+        {
+            if(funDooContext.Users == null)
+            {
+                return null;
+            }
+            return funDooContext.Users.ToList();
+        }
 
+        public UsersEntity SessionLogin(string email, string password)
+        {
+            UsersEntity user = funDooContext.Users.Where(a=> a.Email == email).FirstOrDefault();
+            if(user != null)
+            {
+                if( user.Email== email && user.Password ==EncodePassword( password))
+                {
+                    return user;
+                }
+            }
+            return null;
+        }
+        
+        public ArrayList GetAllDetails(int userid )
+        {
+            ArrayList arrayList = new ArrayList();
+            //var lusers = funDooContext.Users.Where(a => a.Id == userid).ToList();
+            var lstnotes = funDooContext.Notes.Where(a => a.UserId == userid).ToList();
+            var lstlabels = funDooContext.Labels.Where(a => a.Id == userid).ToList();
+            var lstCols = funDooContext.Collaborators.Where(a => a.Id== userid).ToList();
+
+             //var usercount = lstusers.Count();
+            var notecount = lstnotes.Count();
+            var labelcount = lstlabels.Count();
+            var colcount = lstCols.Count();
+
+           var notemessage= $"no.ofNotes given userid = {notecount}";
+            arrayList.Add(notemessage);
+            arrayList.Add(lstnotes);
+            
+            var labelMessage = $"no.of labels given userid = {labelcount}";
+            arrayList.Add(labelMessage);
+            arrayList.Add(lstlabels);
+
+            var collaboratorMessage = $"no.of clooaborator = {colcount}";
+          
+            arrayList.Add(collaboratorMessage);
+            arrayList.Add(lstCols);
+            return arrayList;
+        }
         
     }
 }

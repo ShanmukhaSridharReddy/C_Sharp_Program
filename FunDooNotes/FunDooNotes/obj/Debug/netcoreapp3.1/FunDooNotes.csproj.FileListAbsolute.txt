@@ -72,3 +72,13 @@ C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\S
 C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\obj\Debug\netcoreapp3.1\FunDooNotes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\CloudinaryDotNet.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Person 1\source\repos\FunDooNotes\FunDooNotes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

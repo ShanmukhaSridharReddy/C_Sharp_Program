@@ -2,6 +2,7 @@
 using ModelLayer.Model;
 using RepositoryLayer.Entity;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
@@ -15,6 +16,9 @@ namespace RepositoryLayer.InterFace
         Boolean Email(string email);
         ForgotPassword ForgotPassword(string email);
         bool ResetPassword(string email, ResetPasswordModel resetPasswordModel);
+        IEnumerable<UsersEntity> GetAllUsers();
+        UsersEntity SessionLogin(string email, string password);
+        ArrayList GetAllDetails(int userid);
 
 
     }

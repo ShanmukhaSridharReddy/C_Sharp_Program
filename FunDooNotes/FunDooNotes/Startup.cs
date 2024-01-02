@@ -41,6 +41,13 @@ namespace FunDooNotes
             services.AddDbContext<FunDooContext>(con => con.UseSqlServer(Configuration["ConnectionStrings:FunDooNotes"]));
             services.AddTransient<IUserBusiness, UserBusiness>();
             services.AddTransient<IUserRepo, UserRepo>();
+            services.AddTransient<INotesBusiness, NotesBusiness>();
+            services.AddTransient<INotesRepo, NotesRepo>();
+            services.AddTransient<ILabelBusiness, LabelBusiness>();
+            services.AddTransient<ILabelRepo, LabelRepo>();
+            services.AddTransient<ICollaboratorBusiness, CollaboratorBusiness>();
+            services.AddTransient<ICollaboratorRepo, CollaboratorRepo>();
+            services.AddDistributedMemoryCache();
 
             services.AddSwaggerGen(option =>
             {
@@ -68,6 +75,12 @@ namespace FunDooNotes
                              new string[]{}
                         }
                 });
+            });
+
+            services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromMinutes(20);
+                options.Cookie.HttpOnly = true;
             });
 
             services.AddAuthentication(x =>
@@ -132,7 +145,8 @@ namespace FunDooNotes
 
             app.UseRouting();
 
-            
+            app.UseSession();
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

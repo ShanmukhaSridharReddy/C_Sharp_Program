@@ -35,5 +35,23 @@ namespace BusinessLayer.Sessions
         {
             return userRepo.ForgotPassword(email);
         }
+
+        public bool ResetPassword(string email, ResetPasswordModel resetPasswordModel)
+        {
+            return userRepo.ResetPassword(email, resetPasswordModel);
+        }
+        public IEnumerable<UsersEntity> GetAllUsers()
+        {
+            return userRepo.GetAllUsers();
+
+        }
+        public UsersEntity Find(string name)
+        {
+            return userRepo.Find(name);
+        }
+        public UsersEntity SessionLogin(string email, string password)
+        {
+            return userRepo.SessionLogin(email, password);
+        }
     }
 }

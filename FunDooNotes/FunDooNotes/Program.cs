@@ -2,8 +2,10 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using NLog.Web;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -13,6 +15,10 @@ namespace FunDooNotes
     {
         public static void Main(string[] args)
         {
+            var logPath = Path.Combine(Directory.GetCurrentDirectory(),"Log");
+            NLog.GlobalDiagnosticsContext.Set("myvar", logPath);
+            var logger = NLogBuilder.ConfigureNLog("NLog.config").GetCurrentClassLogger();
+
             CreateHostBuilder(args).Build().Run();
         }
 
@@ -21,6 +27,10 @@ namespace FunDooNotes
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                }).ConfigureLogging(opt =>
+                {
+                    opt.ClearProviders();opt.SetMinimumLevel(LogLevel.Debug);
+
+                }).UseNLog();
     }
 }

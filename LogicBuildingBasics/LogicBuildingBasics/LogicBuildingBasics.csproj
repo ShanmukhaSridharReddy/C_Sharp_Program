@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Person 1\source\repos\LogicBuildingBasics\LogicBuildingBasics\.editorconfig" />
+  </ItemGroup>
+
+</Project>

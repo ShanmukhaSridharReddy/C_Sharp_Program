@@ -4,9 +4,13 @@ using MassTransit;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ModelLayer.Models;
+using Newtonsoft.Json.Linq;
+using RepositoryLayer.Context;
 using RepositoryLayer.EntitIes;
 using RepositoryLayer.Interfaces;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace FunDooAPIApplication.Controllers
@@ -17,15 +21,16 @@ namespace FunDooAPIApplication.Controllers
     {
         private readonly IUserBusiness userBusiness;
         private readonly IBus bus;
-        public UsersController(IUserBusiness userBusiness)
+        public UsersController(IUserBusiness userBusiness, IBus bus)
         {
             this.userBusiness = userBusiness;
+            this.bus = bus;
         }
 
         [HttpPost]
         [Route("Register")]
 
-        public ActionResult Register (RegisterModel registerModel)
+        public ActionResult Register(RegisterModel registerModel)
         {
             var user = userBusiness.Register(registerModel);
             if (user == null)
@@ -46,7 +51,7 @@ namespace FunDooAPIApplication.Controllers
             var user = userBusiness.Login(email, password);
             if (user != null)
             {
-                return Ok(new ResponseModel<string> { IsSuccess = true, Message = "Login Successful", Data = "Valid User" });
+                return Ok(new ResponseModel<string> { IsSuccess = true, Message = "Login Successful", Data = user });
             }
             else
             {
@@ -98,6 +103,45 @@ namespace FunDooAPIApplication.Controllers
                 throw ex;
             }
         }
+
+        [HttpGet]
+        [Route("ResetPassword")]
+        public ActionResult ResetPassword( ResetPasswordModel resetPasswordModel)
+        {
+            string email = User.Claims.Where(a=> a.Type == "email").FirstOrDefault().Value;
+            var result = userBusiness.ResetPassword(email, resetPasswordModel);
+            if(result != null)
+            {
+                return Ok(new ResponseModel<string> { IsSuccess = true, Message = "Reset Successful",Data = "changed" });
+            }
+            return BadRequest(new ResponseModel<string> { IsSuccess= false,Message="Failed",Data = "Not Changed" });
+        }
+        [HttpGet]
+       [Route("GetAllUser")]
+        public ActionResult GetAllUsers()
+         {
+            IEnumerable<UsersEntity> users = userBusiness.GetAllUsers();
+            if(users != null)
+            {
+                return Ok(new ResponseModel<IEnumerable<UsersEntity>> { IsSuccess= true, Message="User Data",Data = users});
+            }
+            return BadRequest(new ResponseModel<string> { IsSuccess= true ,Message="No User Found", Data = "no data"});
+
+         }
+        [HttpGet]
+        [Route("FindUser")]
+        public ActionResult FindUser(string name)
+        {
+            var result = userBusiness.Find(name);
+            if(result != null)
+            {
+                return Ok(result);
+            }
+            return BadRequest(null);
+       
+        }
+
+
 
     }
 }
